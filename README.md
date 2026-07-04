@@ -137,4 +137,4 @@ validate on years 2016–2019 (5,261 games).
 
 - Sun, B., & Saenko, K. (2015). *Return of Frustratingly Easy Domain Adaptation.*
   AAAI Workshop on Transfer and Multi-Task Learning.
-- Kaggle competition: [ML.ai Hackathon 2026](https://kaggle.com/competitions/ml-ai-hackathon-2026)
+- Kaggle competition: [[ML.ai Hackathon 2026](https://kaggle.com/competitions/ml-ai-hackathon-2026)](https://www.kaggle.com/competitions/ml-ai-hackathon-2026/leaderboard)
