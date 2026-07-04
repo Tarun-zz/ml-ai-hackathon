@@ -1,7 +1,7 @@
 # ML.ai Hackathon 2026 — CORAL Domain Adaptation Pipeline
 
 > **IIT Guwahati · IITG.ai Club**  
-> Supervised regression · Metric: RMSLE · Final ensemble RMSLE: **0.5383**
+>Supervised regression · Metric: RMSLE · Kaggle leaderboard RMSLE: **0.71209** · Rank 28
 
 ---
 
